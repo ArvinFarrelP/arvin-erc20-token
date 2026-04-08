@@ -73,7 +73,7 @@ You will also need:
 
 Clone the repository
 
-git clone https://github.com/YOUR_USERNAME/arvin-token.git
+git clone https://github.com/YOUR_USERNAME/arvin-erc20-token.git
 
 Enter the project folder
 
