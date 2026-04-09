@@ -189,14 +189,3 @@ cache
 ## Author
 
 Arvin Farrel Pramuditya
-
-IT Student  
-Blockchain Enthusiast  
-Crypto Trader since 2022
-
----
-
-## License
-
-MIT
-EOF
