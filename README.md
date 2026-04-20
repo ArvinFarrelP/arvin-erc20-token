@@ -189,9 +189,12 @@ cache
 ## Author
 
 Arvin Farrel Pramuditya
+<<<<<<< HEAD
 
 IT Student  
 Blockchain Enthusiast  
 Crypto Trader since 2022
 
 ---
+=======
+>>>>>>> a21336bd0ed7b0e1028076dc45c7dcea4f210352
