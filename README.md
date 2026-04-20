@@ -183,5 +183,3 @@ Add this to `.gitignore`:
 node_modules
 artifacts
 cache
-
-g
