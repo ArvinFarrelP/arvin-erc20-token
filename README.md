@@ -195,8 +195,3 @@ Blockchain Enthusiast
 Crypto Trader since 2022
 
 ---
-
-## License
-
-MIT
-EOF
