@@ -1,31 +1,48 @@
 # ArvinToken (ARV)
 
-Token ERC-20 sederhana di Ethereum Sepolia.
+A simple ERC-20 token smart contract deployed on the Ethereum Sepolia Testnet.
 
-## Info
-- Name: ArvinToken
-- Symbol: ARV
-- Supply: 1,000,000
-- Network: Sepolia
-- Contract: 0xDAec8570f90901c00E27A88170ABc6751930edC0
-- Explorer: https://sepolia.etherscan.io/address/0xDAec8570f90901c00E27A88170ABc6751930edC0
+## Features
 
-## Setup
-git clone https://github.com/YOUR_USERNAME/arvin-erc20-token.git  
-cd arvin-token  
-npm install  
+- ERC-20 standard token
+- Mintable initial supply
+- Deployed on Ethereum Sepolia
 
-## Buat file .env
-SEPOLIA_RPC_URL=YOUR_RPC  
-PRIVATE_KEY=YOUR_PRIVATE_KEY  
+## Deployment
 
-## Commands
-npx hardhat compile  
-npx hardhat run scripts/deploy.js --network sepolia  
-npx hardhat test  
+**Network:** Ethereum Sepolia
 
-## Security (.gitignore)
-.env  
-node_modules  
-artifacts  
-cache  
+**Contract Address**
+
+```text
+0xDAec8570f90901c00E27A88170ABc6751930edC0
+```
+
+**Contract Explorer**
+
+https://sepolia.etherscan.io/address/0xDAec8570f90901c00E27A88170ABc6751930edC0
+
+## Tech Stack
+
+- Solidity
+- OpenZeppelin Contracts
+- Hardhat
+- Ethers.js
+- Ethereum Sepolia
+
+## Build
+
+```bash
+npm install
+npx hardhat compile
+```
+
+## Deploy
+
+```bash
+npx hardhat run scripts/deploy.js --network sepolia
+```
+
+## Author
+
+Arvin Farrel Pramuditya
